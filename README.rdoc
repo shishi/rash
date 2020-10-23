@@ -3,13 +3,13 @@
 {<img src="https://img.shields.io/gem/v/rash_alt.svg" alt="Gem Version" />}[https://rubygems.org/gems/rash_alt]
 {<img src="https://img.shields.io/travis/shishi/rash_alt.svg" alt="Build Status" />}[https://travis-ci.org/shishi/rash_alt]
 
-Rash is an extension to Hashie ( http://github.com/intridea/hashie )
+Rash is an extension to Hashie ( http://github.com/hashie/hashie ).
 
-Rash subclasses Hashie::Mash to convert all keys in the hash to underscore
+Rash subclasses Hashie::Mash to convert all keys in the hash to underscore.
 
-The purpose of this is when working w/ Java (or any other apis) that return hashes (including nested) that have camelCased keys
+The purpose of this is when working w/ Java (or any other apis) that return hashes (including nested) that have camelCased keys.
 
-You will now be able to access those keys through underscored key names (camelCase still available)
+You will now be able to access those keys through underscored key names (camelCase still available).
 
 == Installation
 
