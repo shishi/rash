@@ -1,7 +1,7 @@
 = rash
 
 {<img src="https://img.shields.io/gem/v/rash_alt.svg" alt="Gem Version" />}[https://rubygems.org/gems/rash_alt]
-{<img src="https://img.shields.io/travis/shishi/rash_alt.svg" alt="Build Status" />}[https://travis-ci.org/shishi/rash_alt]
+{<img src="https://github.com/shishi/rash_alt/workflows/rspec/badge.svg" alt="Build Status" />}[https://github.com/shishi/rash_alt/actions?query=workflow%3Arspec]
 
 Rash is an extension to Hashie ( http://github.com/hashie/hashie ).
 
